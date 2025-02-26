@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "Preserve",
+    "noEmit": true,
+    "declaration": false,
+    "target": "ES2022",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "noFallthroughCasesInSwitch": true,
+    "skipLibCheck": true
+  },
+  "include": ["src", "./*.ts", "./*.js"]
+}
