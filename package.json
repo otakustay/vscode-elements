@@ -80,6 +80,6 @@
     "typescript-eslint": "^8.25.0",
     "vite": "^7.0.0",
     "vitest": "^3.0.7",
-    "wireit": "^0.14.11"
+    "wireit": "^0.15.0"
   }
 }
